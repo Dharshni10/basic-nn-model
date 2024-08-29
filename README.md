@@ -10,7 +10,7 @@ Create a neural network regression model to accurately predict a continuous targ
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![Output](https://github.com/user-attachments/assets/06b53633-e66d-4c06-ae37-33f38b4feee5)
 
 ## DESIGN STEPS
 
